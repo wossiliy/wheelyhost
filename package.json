@@ -2,7 +2,7 @@
   "name": "project1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wossiliy.github.io/wheelyweb",
+  "homepage": "https://wossiliy.github.io/wheelyhost",
   "dependencies": {
     "@coreui/react": "^4.4.0",
     "@emailjs/browser": "^3.9.1",
